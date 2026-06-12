@@ -1,0 +1,38 @@
+🎮 Final Project – Guessing Game Program  
+
+This folder contains my Final Project for the *Algorithms and Programming* course.  
+The project implements a simple Guessing Game in C++ with three types of challenges.
+This program is designed in Bahasa Indonesia.  
+
+
+📂 Repository Structure  
+GuessingGame/  
+│── src/               # Source code (.cpp)  
+│── docs/              # Documentation & screenshots  
+│── README.md          # Main documentation  
+
+
+🚀 Project Overview  
+🔹 Guess the Animal Name
+- User gets up to 3 attempts to answer correctly.  
+- Questions are randomized so they don’t repeat in consecutive runs.  
+- After each game, the user can choose to play again or return to the main menu.  
+
+🔹 Guess Food Myth or Fact
+- User chooses between *Myth* or *Fact*.  
+- Correct/incorrect responses are shown with different messages.  
+- Randomized questions each round.  
+
+🔹 Guess the Secret Number
+- The program randomly selects a secret number.  
+- The user keeps guessing until the number is found.  
+- Hints are provided (*too high* / *too low*).  
+
+
+🛠️ Tech Stack  
+- Language: C++  
+- Compiler: MinGW / GCC  
+- IDE: Code::Blocks / Dev-C++  
+- Platform: Windows  
+
+✨ This project was created to fulfill the Final Project requirement for the Algorithms and Programming course.  

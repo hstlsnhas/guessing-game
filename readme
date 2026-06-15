@@ -7,7 +7,7 @@ This program is designed in Bahasa Indonesia.
 
 📂 Repository Structure  
 GuessingGame/  
-│── src/               # Source code (.cpp)  
+│── src/               # Source code
 │── docs/              # Documentation & screenshots  
 │── README.md          # Main documentation  
 
@@ -30,9 +30,13 @@ GuessingGame/
 
 
 🛠️ Tech Stack  
-- Language: C++  
+- Language: C++ (original) · HTML/CSS/JavaScript (web version) 
 - Compiler: MinGW / GCC  
 - IDE: Code::Blocks / Dev-C++  
-- Platform: Windows  
+- Platform: Windows and Browser
+
+🌐 Live Demo
+The original C++ console program has been adapted into a browser-based version so anyone can try it without installing anything.
+👉 [Play here](https://your-link.vercel.app)
 
 ✨ This project was created to fulfill the Final Project requirement for the Algorithms and Programming course.  

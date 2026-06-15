@@ -1,5 +1,8 @@
 {
   "buildCommand": null,
-  "outputDirectory": ".",
+  "outputDirectory": "src",
+  "rewrites": [
+    { "source": "/", "destination": "/guessing_game.html" }
+  ],
   "framework": null
 }
